@@ -1,0 +1,16 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather App For All...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deployStream": "git add . && git commit -m \"Streamed - Upload\" && git push origin main"
+  },
+  "keywords": [
+    "Weather",
+    "Application"
+  ],
+  "author": "Matthew Jesse Thomas",
+  "license": "ISC"
+}
