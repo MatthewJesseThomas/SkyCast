@@ -12,5 +12,8 @@
     "Application"
   ],
   "author": "Matthew Jesse Thomas",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "sweetalert2": "^11.10.7"
+  }
 }
