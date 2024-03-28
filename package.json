@@ -4,7 +4,7 @@
   "description": "Weather App For All...",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
     "deployStream": "git add . && git commit -m \"Streamed - Upload\" && git push origin main"
   },
   "keywords": [

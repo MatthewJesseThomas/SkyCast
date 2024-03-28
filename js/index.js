@@ -1,7 +1,5 @@
-import Swal from 'sweetalert2';
-
 async function getWeather() {
-    const apiKey = '5b145ea769c3cf88c24376f6fd24de45'; // Replace 'your-api-key' with your actual API key
+    const apiKey = 'b5e54abb4046a4ac748e05e886a912a2'; // Replace 'your-api-key' with your actual API key
     const city = document.getElementById('city').value;
 
     if (!city) {
